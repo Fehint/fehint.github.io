@@ -1,4 +1,6 @@
 *{background-color: #FFCCCC;}
-img{width:5em; height:5em;}
-h1{text-align: center;}
+img{width:5em; height:5em;border:solid;position: fixed;right:2em;}
+h1{text-align: center;color:#660033}
 img{margin:5em; }
+table{border:solid;}
+p{text-align:center;}
